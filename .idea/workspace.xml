@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0fa1899f-5953-48dc-920a-485e5dcec227" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VhzhMRMGLJp51qZKpZz9ICI9aC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/kostia/Desktop/JavaIDEJ/kidkiddosUITestProject2",
+    "run.code.analysis.last.selected.profile": "pProject Default"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.BooksPageTest.testChangeBookQuantityInCart">
+    <configuration name="BooksPageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kidkiddosUITestProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BooksPageTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BooksPageTest.testChangeBookQuantityInCart" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kidkiddosUITestProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BooksPageTest" />
+      <option name="METHOD_NAME" value="testChangeBookQuantityInCart" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BooksPageTest.testChangeQuantityAndAddToCart" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kidkiddosUITestProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BooksPageTest" />
+      <option name="METHOD_NAME" value="testChangeQuantityAndAddToCart" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BooksPageTest.testChangeToHardcover" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kidkiddosUITestProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BooksPageTest" />
+      <option name="METHOD_NAME" value="testChangeToHardcover" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BooksPageTest.testClickOnBookAndAddToCart" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kidkiddosUITestProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BooksPageTest" />
+      <option name="METHOD_NAME" value="testClickOnBookAndAddToCart" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BooksPageTest.testChangeBookQuantityInCart" />
+        <item itemvalue="JUnit.BooksPageTest" />
+        <item itemvalue="JUnit.BooksPageTest.testChangeQuantityAndAddToCart" />
+        <item itemvalue="JUnit.BooksPageTest.testChangeToHardcover" />
+        <item itemvalue="JUnit.BooksPageTest.testClickOnBookAndAddToCart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0fa1899f-5953-48dc-920a-485e5dcec227" name="Default Changelist" comment="" />
+      <created>1577720232381</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577720232381</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="executable:docker" />
+    <option featureType="dependencySupport" implementationName="java:org.seleniumhq.selenium:selenium-java" />
+    <option featureType="dependencySupport" implementationName="executable:kubectl" />
+  </component>
+</project>
